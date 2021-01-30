@@ -59,16 +59,10 @@ mvn test
 
 ## Autor ✒️
 
-* Juan Sebastián Frásica Galeano
+* Paula Andrea Guevara Sánchez
 
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia GNU General Public License - [LICENSE](LICENSE) 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
