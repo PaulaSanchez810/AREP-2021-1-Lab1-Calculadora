@@ -1,82 +1,69 @@
 # Calculadora desviación estándar y media
 
-One Paragraph of project description goes here
+Programa para calcular la desviación estándar y media de un conjunto de n números reales, utilizando una Linked list para almacenar los n números para los cálculos.Donde el programa lee los n números reales de un archivo.
+## Comenzando 🚀
 
-## Getting Started
+Para ver la documentación del taller en formato Latex haga [click acá]()
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Pre-requisitos 📋
 
-What things you need to install the software and how to install them
+* Java 8
+* Maven (Apache Maven)
+* Git
 
-```
-Give examples
-```
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running
+### Instalación 🔧
 
-Say what the step will be
+1. Clonar el repositorio
 
 ```
-Give the example
+git clone https://github.com/PaulaSanchez810/AREP-2021-1-Lab1-Calculadora.git
 ```
 
-And repeat
+2. En una terminal:
 
 ```
-until finished
+mvn package
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+3. Para ejecutar la aplicación
 
 ```
-Give an example
+java -cp target/taller-maven-git-1.0-SNAPSHOT.jar edu.escuelaing.arep.App
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
+4. Si desea ver la documentación _javadoc_ de la aplicación
 
 ```
-Give an example
+mvn javadoc:javadoc
+```
+Esta documentación quedará en el directorio /target/site
+
+
+## Ejecutando las pruebas ⚙️
+
+En una terminal:
+```
+mvn test
 ```
 
-## Deployment
+## Construido con 🛠️
 
-Add additional notes about how to deploy this on a live system
+* Java 8
+* JUnit
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
 
-## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Autor ✒️
 
-## Contributing
+* Juan Sebastián Frásica Galeano
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+## Licencia 📄
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
+Este proyecto está bajo la Licencia GNU General Public License - [LICENSE](LICENSE) 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
