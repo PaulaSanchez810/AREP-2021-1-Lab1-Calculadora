@@ -64,5 +64,3 @@ mvn test
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia GNU General Public License - [LICENSE](LICENSE) 
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
