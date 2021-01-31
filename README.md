@@ -8,7 +8,7 @@ Para ver la documentación del taller en formato Latex haga [click acá]()
 
 ### Pre-requisitos 📋
 
-* Java 8
+* Java 13.0.2
 * Maven (Apache Maven)
 * Git
 
