@@ -8,7 +8,7 @@ El programa desarrollado para calcular la desviación estándar y media de un co
 
 Para ver detalle del darrollo de la práctica y concepto clave, puede consultar el documento del laboratorio:
 
-> En formato Latex haga [click acá](https://www.overleaf.com/project/601554022e066319be081aec)
+> En formato Latex haga [click acá](https://www.overleaf.com/project/601551db2e066306a40817fe)
 
 > En formaro Pdf haga [click acá](https://github.com/PaulaSanchez810/AREP-2021-1-Lab1-Calculadora/blob/main/INTRODUCTION%20TO%20COMPLEX%20SYSTEMS%2C%20JAVA%2C%20MVN%2C%20AND%20GIT.pdf)
 
