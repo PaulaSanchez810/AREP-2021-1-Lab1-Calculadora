@@ -56,4 +56,4 @@ mvn test
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia GNU General Public License - [LICENSE](LICENSE) 
+Este proyecto está bajo la Licencia GNU General Public License - [LICENSE](Licencia GNU General Public License) 
