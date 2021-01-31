@@ -23,20 +23,20 @@ Para ver detalle del darrollo de la práctica y concepto clave, puede consultar 
 
 #### Clonar el repositorio
 
-```
+```sh
 git clone https://github.com/PaulaSanchez810/AREP-2021-1-Lab1-Calculadora.git
 ```
 
 #### Documentación _javadoc_ de la aplicación
 
 > En una termianl:
-```
+```sh
 mvn javadoc:javadoc
 ```
 ## Ejecutando las pruebas ✅
 
 En una terminal:
-```
+```sh
 mvn test
 ```
 ![](https://github.com/PaulaSanchez810/AREP-2021-1-Lab1-Calculadora/blob/main/img/img1.png)
