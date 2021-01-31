@@ -6,7 +6,9 @@ El programa desarrollado para calcular la desviación estándar y media de un co
 
 ## Comenzando 🚀
 
-Para ver detalle del darrollo de la práctica y concepto clave, puede consultar el documento del laboratorio en formato Latex haga [click acá](https://www.overleaf.com/project/601554022e066319be081aec)
+Para ver detalle del darrollo de la práctica y concepto clave, puede consultar el documento del laboratorio:
+> En formato Latex haga [click acá](https://www.overleaf.com/project/601554022e066319be081aec)
+> En formaro Pdf haga [click acá](https://github.com/PaulaSanchez810/AREP-2021-1-Lab1-Calculadora/blob/main/INTRODUCTION%20TO%20COMPLEX%20SYSTEMS%2C%20JAVA%2C%20MVN%2C%20AND%20GIT.pdf)
 
 
 ### Pre-requisitos 📋
@@ -18,21 +20,17 @@ Para ver detalle del darrollo de la práctica y concepto clave, puede consultar 
 
 
 ### Instalación 🔧
-
-1. Clonar el repositorio
+---
+#### Clonar el repositorio
 
 ```
 git clone https://github.com/PaulaSanchez810/AREP-2021-1-Lab1-Calculadora.git
 ```
 
-2. En una terminal:
 
-```
-mvn package
-```
+#### Documentación _javadoc_ de la aplicación
 
-3. Si desea ver la documentación _javadoc_ de la aplicación
-
+> En una termianl:
 ```
 mvn javadoc:javadoc
 ```
@@ -42,6 +40,7 @@ En una terminal:
 ```
 mvn test
 ```
+![](https://github.com/PaulaSanchez810/AREP-2021-1-Lab1-Calculadora/blob/main/img/img1.png)
 
 ## Construido con 🛠️
 
@@ -56,4 +55,4 @@ mvn test
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia GNU General Public License - [LICENSE](Licencia GNU General Public License) 
+Este proyecto está bajo la Licencia GNU General Public License - [LICENSE](https://github.com/PaulaSanchez810/AREP-2021-1-Lab1-Calculadora/blob/main/LICENSE.txt) 
